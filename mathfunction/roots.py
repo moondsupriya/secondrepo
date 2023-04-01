@@ -2,7 +2,7 @@
 
 # Note: change this value for a different result
 num = 8 
-
+print(num)
 # To take the input from the user
 #num = float(input('Enter a number: '))
 
